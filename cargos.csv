@@ -1,0 +1,6 @@
+id_cargo,titulo,nivel,salario_base
+1,Analista,Junior,3500.0
+2,Desenvolvedor,Pleno,5500.0
+3,Gerente,Senior,8500.0
+4,Coordenador,Pleno,6000.0
+5,Diretor,Senior,12000.0

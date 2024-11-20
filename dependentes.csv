@@ -1,0 +1,25 @@
+id_funcionario,nome_dependente,data_nascimento,parentesco
+1,Lucas Silva,2012-05-06,Filho
+1,Helena Silva,2015-09-13,Filha
+1,Fernanda Silva,2018-02-20,Filha
+2,Eduardo Souza,2018-04-24,Filho
+2,Clara Souza,2016-07-19,Filha
+2,João Souza,2014-11-03,Filho
+3,Mateus Lima,2009-03-22,Filho
+3,Letícia Lima,2012-11-11,Filha
+4,Gabriel Santos,2014-02-15,Filho
+4,Sophia Santos,2017-08-23,Filha
+5,Rafael Alves,2010-10-12,Filho
+5,Mariana Alves,2014-03-04,Filha
+6,André Nogueira,2015-05-19,Filho
+6,Lívia Nogueira,2018-09-30,Filha
+6,Bruna Nogueira,2020-12-08,Filha
+7,Caio Pereira,2011-01-09,Filho
+7,Amanda Pereira,2013-12-05,Filha
+8,Leonardo Ferreira,2016-06-07,Filho
+8,Sara Ferreira,2019-11-22,Filha
+9,Victor Melo,2007-07-10,Filho
+9,Juliana Melo,2011-03-25,Filha
+9,Marcos Melo,2014-09-14,Filho
+10,Bruno Rocha,2013-08-18,Filho
+10,Camila Rocha,2015-04-29,Filha

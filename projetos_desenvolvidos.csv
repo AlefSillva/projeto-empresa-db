@@ -1,0 +1,11 @@
+id_projeto,nome_projeto,descricao,data_inicio,data_conclusao,id_funcionario,custo_projeto,status,categoria
+1,Desenvolvimento de Software,Sistema de gestão empresarial,2023-01-15,2023-06-30,1,50000,Concluído,Tecnologia
+2,Marketing Digital,Campanha de marketing para redes sociais,2023-02-01,2023-05-15,2,20000,Concluído,Marketing
+3,Reestruturação Financeira,Análise e otimização de custos,2023-03-10,2023-09-20,3,30000,Em Andamento,Financeiro
+4,Desenvolvimento de Produto,Novo produto para linha de eletrônicos,2023-04-05,2023-12-31,4,75000,Planejado,Desenvolvimento
+5,Expansão Internacional,Estudo de mercado e abertura de filial,2023-05-20,2024-03-15,5,100000,Planejado,Expansão
+6,Automação de Processos,Implementação de RPA para processos internos,2023-06-01,2023-11-30,6,45000,Em Execução,Automação
+7,Pesquisa de Mercado,Análise de tendências de mercado,2023-07-15,2023-12-15,7,25000,Em Planejamento,Pesquisa
+8,Desenvolvimento de Aplicativo,Aplicativo móvel para clientes,2023-08-01,2024-02-28,8,60000,Em Execução,Desenvolvimento
+9,Melhoria de Infraestrutura,Atualização de servidores e redes,2023-09-10,2024-03-10,9,80000,Em Planejamento,Infraestrutura
+10,Capacitação de Equipe,Programa de treinamento para funcionários,2023-10-05,2024-04-05,10,15000,Em Execução,Recursos Humanos

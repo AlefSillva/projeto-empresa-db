@@ -1,0 +1,11 @@
+id_funcionario,nome,idade,data_admissao,id_cargo,id_departamento
+1,João Silva,34,2018-03-15,1,1
+2,Maria Souza,28,2020-07-10,2,2
+3,Pedro Lima,45,2015-01-22,3,3
+4,Ana Santos,39,2017-06-30,4,1
+5,Felipe Alves,50,2010-11-03,5,4
+6,Beatriz Nogueira,26,2022-02-12,2,2
+7,Carlos Pereira,33,2019-04-27,3,3
+8,Júlia Ferreira,31,2016-09-19,1,1
+9,Bruno Melo,38,2014-12-11,5,5
+10,Daniela Rocha,29,2021-08-05,4,4

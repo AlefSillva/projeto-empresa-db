@@ -1,0 +1,13 @@
+id_recurso,id_projeto,descricao_recurso,tipo_recurso,quantidade,data_utilizacao,custo_unitario,custo_total
+1,101,Computador,material,10,2023-01-15,1500,15000
+2,101,Desenvolvedor,humano,5,2023-01-16,5000,25000
+3,102,Servidor,material,2,2023-02-10,2000,4000
+4,102,Analista,humano,3,2023-02-11,4500,13500
+5,103,Software,financeiro,1,2023-03-05,10000,10000
+6,103,Consultor,humano,2,2023-03-06,6000,12000
+7,104,Licença de Software,financeiro,3,2023-04-01,3000,9000
+8,104,Designer,humano,4,2023-04-02,4000,16000
+9,105,Impressora,material,5,2023-05-10,800,4000
+10,105,Gerente de Projeto,humano,1,2023-05-11,7000,7000
+11,106,Serviços de Nuvem,financeiro,2,2023-06-15,5000,10000
+12,106,Engenheiro de Software,humano,3,2023-06-16,5500,16500
