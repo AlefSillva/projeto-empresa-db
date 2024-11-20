@@ -1,0 +1,14 @@
+[
+    {
+        "recurso": "Computador",
+        "quantidade_total": 10
+    },
+    {
+        "recurso": "Impressora",
+        "quantidade_total": 5
+    },
+    {
+        "recurso": "Servidor",
+        "quantidade_total": 2
+    }
+]
